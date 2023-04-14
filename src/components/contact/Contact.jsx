@@ -43,7 +43,8 @@ const Contact = () => {
               <h4>Whatsapp</h4>
               <h5>+91 79090 81798</h5>
               {/* <a href="https://wa.me/917909081798" target="blank">DM on Whatsapp</a> */}
-              <a href="https://api.whatsapp.com/send?phone=917909081798" target="blank">DM on Whatsapp</a> 
+              {/* <a href="https://api.whatsapp.com/send?phone=917909081798" target="blank">DM on Whatsapp</a>  */}
+              <a href="www.google.com" target="blank">DM on Whatsapp</a> 
             </article>
 
          </div>
