@@ -10,7 +10,8 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 
 import 'swiper/swiper-bundle.min.css'
 import 'swiper/swiper.min.css'
-import 'swiper/modules/pagination/pagination.min.css'
+// import 'swiper/modules/pagination/pagination.min.css'
+import 'swiper/components/navigation/navigation.min.css';
 
 
 // import required modules
@@ -32,6 +33,16 @@ const data = [
     avtar: Avt1,
     name: 'Atequee',
     review: 'You are the most awesome friend, and I am the most fortunate to have you in my life. Cheers to our friendship.  May God strengthen our bond and fill our lives with happy memories.'
+  },
+  {
+    avtar: Avt1,
+    name: 'Aditya',
+    review: 'I know that you will always have my back, because that is the kind of person you are.'
+  },
+  {
+    avtar: Avt1,
+    name: 'Rahul',
+    review: 'One of the most beautiful qualities of true friendship is to understand and to be understood'
   },
   {
     avtar: Avt1,

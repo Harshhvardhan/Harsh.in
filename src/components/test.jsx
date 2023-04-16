@@ -81,3 +81,18 @@ const Testimonials = () => {
 }
 
 export default Testimonials
+
+
+
+
+
+
+
+
+// package json line 23 me..
+// "eslintConfig": {
+//   "extends": [
+//     "react-app",
+//     "react-app/jest"
+//   ]
+// },
