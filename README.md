@@ -1,3 +1,7 @@
+YOU CAN VIEW THIS SITE LIVE BY VISITING : https://harsh-in-portfolio.netlify.app/
+
+
+
 # Getting Started with Create React App
 You can view this live on: harsh-portfolio-in.netlify.app
 
